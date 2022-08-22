@@ -2,6 +2,5 @@
 * git init
 * git add
 * git commit
-* git push
 * git commit -am
 * git push
